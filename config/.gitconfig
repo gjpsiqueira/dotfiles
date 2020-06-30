@@ -1,3 +1,7 @@
+[user]
+	email = gjpsiqueira@gmail.com
+	name = Gustavo Siqueira
+
 [alias]
 
     # View abbreviated SHA, description, and history graph of the latest 20 commits
