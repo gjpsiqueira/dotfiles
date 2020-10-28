@@ -13,8 +13,8 @@ alias -- -="cd -"
 alias d="cd ~/Documents/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias dev="cd /Volumes/"Extreme SSD"/Development"
-alias ssd="cd /Volumes/"Extreme SSD""
+alias dev="cd /Volumes/'Extreme SSD'/Development"
+alias ssd="cd /Volumes/'Extreme SSD'"
 alias g="git"
 
 # Detect which `ls` flavor is in use
