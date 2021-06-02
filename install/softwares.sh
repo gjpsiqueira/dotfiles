@@ -11,7 +11,9 @@ cask=(
   "visual-studio-code"
   "spotify"
   "coconutbattery"
-  "zoom"
+  "zoom",
+  "watchman",
+  
 )
 
 for app in "${cask[@]}"; do
