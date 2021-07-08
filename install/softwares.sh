@@ -13,7 +13,8 @@ cask=(
   "coconutbattery"
   "zoom",
   "watchman",
-  "node"
+  "node",
+  "kap"
 
 )
 
