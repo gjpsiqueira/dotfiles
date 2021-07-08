@@ -14,7 +14,8 @@ cask=(
   "zoom",
   "watchman",
   "node",
-  "kap"
+  "kap",
+  "cloudflare-warp"
 
 )
 
