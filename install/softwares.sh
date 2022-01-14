@@ -12,7 +12,6 @@ cask=(
   "spotify"
   "coconutbattery"
   "zoom",
-  "watchman",
   "node",
   "kap",
   "cloudflare-warp"
